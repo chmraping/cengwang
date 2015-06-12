@@ -23,5 +23,5 @@ while not success:
 		print "%s login success!" % user
 	except ValueError:
 		count += 1
-		continue
+		
 
